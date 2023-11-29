@@ -1,6 +1,6 @@
 <h1>Hi! It's Shubham <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"></h1>
 
-I'm a electronics and communication engineering student and a self-taught programmer from india. I'm currently learning frontend development and UI/UX designing. I love open source development and have contributed to lots of open source projects in last few months, apart from programming related stuffs, i love watching cricket & reading novels in free time.
+I'm a electronics and communication engineering student and a self-taught programmer from india. I'm currently learning frontend development with React. I love open source development and have contributed to lots of open source projects in last few months, apart from programming related stuffs, i love watching cricket & reading novels in free time.
 
 ![](https://komarev.com/ghpvc/?username=shubhamkumarjha827)
 
