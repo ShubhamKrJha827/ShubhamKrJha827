@@ -1,12 +1,12 @@
 <h1>Hi! It's Shubham <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"></h1>
 
-I'm a electronics and communication engineering student and a self-taught programmer from india. I'm currently working as a frontend developer with React. I love open source development and have contributed to lots of open source projects in last few months, apart from programming related stuffs, i love watching cricket & reading novels in free time.
+I'm a electronics and communication engineering student and a self-taught programmer from india. I'm currently working as a Java developer . I love open source development and have contributed to lots of open source projects in last few months, apart from programming related stuffs, i love watching cricket & reading novels in free time.
 
 ![](https://komarev.com/ghpvc/?username=shubhamkumarjha827)
 
 <h2>Tech Stack <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30"</img></h2>
 
-![](https://skillicons.dev/icons?i=html,css,js,react,jquery,vscode,git,github,githubactions,python,markdown)
+![](https://skillicons.dev/icons?i=html,css,js,react,git,github,githubactions,java,markdown,mysql,Spring,SpringBoot,Hibarnate)
 
 <h2 align="center">GitHub Stats <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30"</img></h2>
 
